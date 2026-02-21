@@ -45,5 +45,6 @@ The dashboard enables stakeholders to monitor weekly trends, compare week-over-w
 6. Screenshot / Demo
 
 https://github.com/jaseelmohmd18/Credit_Card_Financial_Dashboard/blob/main/Snapshot%20of%20the%20dashboard%201.png
+https://github.com/jaseelmohmd18/Credit_Card_Financial_Dashboard/blob/main/Snapshot%20of%20the%20dashboard%202%20(2).png
 
 
